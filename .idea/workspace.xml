@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83493faa-bc41-4ce1-a0b9-7af0cc28284a" name="Default Changelist" comment="" />
+    <list default="true" id="83493faa-bc41-4ce1-a0b9-7af0cc28284a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1VSxxC1Rj9wjEp16o6s80I4WtWr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,7 +45,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -104,8 +115,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.app_check_pid" />
-      <item itemvalue="Python tests.pytest in tests" />
       <item itemvalue="Python.app_check_isbn10" />
+      <item itemvalue="Python tests.pytest in tests" />
     </list>
     <recent_temporary>
       <list>
@@ -135,12 +146,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577260542311</updated>
-      <workItem from="1577260557753" duration="7410000" />
+      <workItem from="1577260557753" duration="7743000" />
+      <workItem from="1577269101624" duration="83000" />
     </task>
+    <task id="LOCAL-00001" summary="สร้างฟังก์ชั่นตรวจบัตร ปชช ได้แล้ว">
+      <created>1577268846445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577268846445</updated>
+    </task>
+    <task id="LOCAL-00002" summary="เพิ่มไฟล์ใหม่">
+      <created>1577268924701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577268924701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="สร้างฟังก์ชั่นตรวจบัตร ปชช ได้แล้ว" />
+    <MESSAGE value="เพิ่มไฟล์ใหม่" />
+    <option name="LAST_COMMIT_MESSAGE" value="เพิ่มไฟล์ใหม่" />
   </component>
   <component name="WindowStateProjectService">
     <state x="966" y="394" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577264423884">
@@ -151,10 +196,10 @@
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
     <state x="1333" y="680" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577265076997" />
-    <state x="790" y="311" key="CommitChangelistDialog2" timestamp="1577268846182">
+    <state x="790" y="311" key="CommitChangelistDialog2" timestamp="1577268924585">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
-    <state x="790" y="311" key="CommitChangelistDialog2/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577268846182" />
+    <state x="790" y="311" key="CommitChangelistDialog2/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577268924585" />
     <state width="1358" height="414" key="GridCell.Tab.0.bottom" timestamp="1577268849672">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
@@ -187,14 +232,14 @@
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
     <state width="1358" height="255" key="GridCell.Tab.1.right/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577263978826" />
-    <state x="1011" y="370" key="SettingsEditor" timestamp="1577268750034">
+    <state x="1011" y="370" key="SettingsEditor" timestamp="1577269083691">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
-    <state x="1011" y="370" key="SettingsEditor/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577268750034" />
-    <state x="1390" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1577260560072">
+    <state x="1011" y="370" key="SettingsEditor/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577269083691" />
+    <state x="1390" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1577269103235">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
-    <state x="1390" y="525" key="com.intellij.ide.util.TipDialog/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577260560072" />
+    <state x="1390" y="525" key="com.intellij.ide.util.TipDialog/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577269103235" />
     <state x="1167" y="475" key="search.everywhere.popup" timestamp="1577262882307">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
