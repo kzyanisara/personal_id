@@ -1,5 +1,6 @@
 [
   "utils/test_check_pid.py::test_check_pid",
   "utils/test_check_pid.py::test_is_valid",
-  "utils/test_check_pid.py::test_is_bkk"
+  "utils/test_check_pid.py::test_is_bkk",
+  "utils/test_app_check_isbn10.py::test_is_valid"
 ]
