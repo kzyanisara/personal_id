@@ -25,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -150,22 +151,26 @@
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
     <state x="1333" y="680" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577265076997" />
-    <state width="1358" height="414" key="GridCell.Tab.0.bottom" timestamp="1577267063513">
+    <state x="790" y="311" key="CommitChangelistDialog2" timestamp="1577268846182">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
-    <state width="1358" height="414" key="GridCell.Tab.0.bottom/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577267063513" />
-    <state width="1358" height="414" key="GridCell.Tab.0.center" timestamp="1577267063512">
+    <state x="790" y="311" key="CommitChangelistDialog2/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577268846182" />
+    <state width="1358" height="414" key="GridCell.Tab.0.bottom" timestamp="1577268849672">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
-    <state width="1358" height="414" key="GridCell.Tab.0.center/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577267063512" />
-    <state width="1358" height="414" key="GridCell.Tab.0.left" timestamp="1577267063511">
+    <state width="1358" height="414" key="GridCell.Tab.0.bottom/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577268849672" />
+    <state width="1358" height="414" key="GridCell.Tab.0.center" timestamp="1577268849669">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
-    <state width="1358" height="414" key="GridCell.Tab.0.left/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577267063511" />
-    <state width="1358" height="414" key="GridCell.Tab.0.right" timestamp="1577267063512">
+    <state width="1358" height="414" key="GridCell.Tab.0.center/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577268849669" />
+    <state width="1358" height="414" key="GridCell.Tab.0.left" timestamp="1577268849668">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
-    <state width="1358" height="414" key="GridCell.Tab.0.right/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577267063512" />
+    <state width="1358" height="414" key="GridCell.Tab.0.left/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577268849668" />
+    <state width="1358" height="414" key="GridCell.Tab.0.right" timestamp="1577268849670">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="414" key="GridCell.Tab.0.right/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577268849670" />
     <state width="1358" height="255" key="GridCell.Tab.1.bottom" timestamp="1577263978826">
       <screen x="0" y="23" width="3440" height="1337" />
     </state>
