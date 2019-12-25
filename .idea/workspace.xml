@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83493faa-bc41-4ce1-a0b9-7af0cc28284a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VSxxC1Rj9wjEp16o6s80I4WtWr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app_check_isbn10">
+    <configuration name="app_check_isbn10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="personal_id" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app_check_isbn10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app_check_pid" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="personal_id" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app_check_pid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tests" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="personal_id" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/personal_id/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.app_check_pid" />
+      <item itemvalue="Python tests.pytest in tests" />
+      <item itemvalue="Python.app_check_isbn10" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app_check_isbn10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83493faa-bc41-4ce1-a0b9-7af0cc28284a" name="Default Changelist" comment="" />
+      <created>1577260542311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577260542311</updated>
+      <workItem from="1577260557753" duration="7410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="966" y="394" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577264423884">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="966" y="394" key="#com.intellij.execution.impl.EditConfigurationsDialog/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577264423884" />
+    <state x="1333" y="680" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1577265076997">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="1333" y="680" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577265076997" />
+    <state width="1358" height="414" key="GridCell.Tab.0.bottom" timestamp="1577267063513">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="414" key="GridCell.Tab.0.bottom/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577267063513" />
+    <state width="1358" height="414" key="GridCell.Tab.0.center" timestamp="1577267063512">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="414" key="GridCell.Tab.0.center/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577267063512" />
+    <state width="1358" height="414" key="GridCell.Tab.0.left" timestamp="1577267063511">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="414" key="GridCell.Tab.0.left/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577267063511" />
+    <state width="1358" height="414" key="GridCell.Tab.0.right" timestamp="1577267063512">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="414" key="GridCell.Tab.0.right/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577267063512" />
+    <state width="1358" height="255" key="GridCell.Tab.1.bottom" timestamp="1577263978826">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="255" key="GridCell.Tab.1.bottom/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577263978826" />
+    <state width="1358" height="255" key="GridCell.Tab.1.center" timestamp="1577263978825">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="255" key="GridCell.Tab.1.center/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577263978825" />
+    <state width="1358" height="255" key="GridCell.Tab.1.left" timestamp="1577263978825">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="255" key="GridCell.Tab.1.left/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577263978825" />
+    <state width="1358" height="255" key="GridCell.Tab.1.right" timestamp="1577263978826">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1358" height="255" key="GridCell.Tab.1.right/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577263978826" />
+    <state x="1011" y="370" key="SettingsEditor" timestamp="1577268750034">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="1011" y="370" key="SettingsEditor/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577268750034" />
+    <state x="1390" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1577260560072">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="1390" y="525" key="com.intellij.ide.util.TipDialog/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577260560072" />
+    <state x="1167" y="475" key="search.everywhere.popup" timestamp="1577262882307">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="1167" y="475" key="search.everywhere.popup/37.1463.1440.877/0.23.3440.1337@0.23.3440.1337" timestamp="1577262882307" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/personal_id$check_digit.coverage" NAME="app_check_pid Coverage Results" MODIFIED="1577264427246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/personal_id$app_check_isbn10.coverage" NAME="app_check_isbn10 Coverage Results" MODIFIED="1577267063502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/personal_id$pytest_in_check_digit_py.coverage" NAME="pytest in tests Coverage Results" MODIFIED="1577266319620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
